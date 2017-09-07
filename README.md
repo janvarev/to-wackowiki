@@ -23,6 +23,7 @@ Download the compiled script located at `to-wackowiki.js`.
 
 to-wackowiki is just a changed form of [to-markdown](https://github.com/domchristie/to-markdown). Mostly about the filters at file end - they were just changed to support WackoWiki syntax.
 
+So, if you want to run it on Node, or recompile - please, see [to-markdown](https://github.com/domchristie/to-markdown) full description.
 
 ## Licence
 
