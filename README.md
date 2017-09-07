@@ -1,6 +1,7 @@
 # to-wackowiki
 
 An HTML to WackoWiki converter written in JavaScript.
+[Demo page](http://d.janvarev.ru/to-wackowiki/)
 
 The API is as follows:
 
